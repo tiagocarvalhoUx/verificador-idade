@@ -1,0 +1,34 @@
+body{
+background-color: rgba(6, 6, 253, 0.155);
+}
+
+header{
+    color: rgba(    5, 23, 223, 0.937);
+    text-align: center;
+}
+
+section{
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    font: bold;
+    box-shadow: 5px 5px 10px rgba(4, 0, 0, 0.316);
+}
+
+#res {
+    text-align: center;
+    margin-top: 5%;
+    color: rgba(    5, 23, 223, 0.937);
+}
+
+
+
+
+footer{
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;
+
+}
